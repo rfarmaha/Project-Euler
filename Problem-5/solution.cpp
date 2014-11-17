@@ -12,7 +12,7 @@ int main()
     {
         lcm = computeLCM(lcm, i-1);
     }
-    cout << "LCM: " << lcm;
+    cout << "LCM: " << lcm << endl;
    return 0;
 }
 
